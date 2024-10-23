@@ -4,7 +4,7 @@
 
 Welcome to the **Python Bootcamp**, hosted at **Ferdowsi University of Mashhad**! This repository contains all the materials, code examples, and resources you will need throughout this course. Whether you're just starting with Python or looking to sharpen your skills, this course is designed to guide you from the basics to more advanced topics in Python.
 
-
+![Poster Workshop](./PosterWorkshop.png)
 
 ## Course Outline:
 
