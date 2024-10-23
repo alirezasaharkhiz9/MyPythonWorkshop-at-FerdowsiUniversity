@@ -18,12 +18,11 @@ Here is a brief overview of what we will cover in this bootcamp:
 6. **Functions and Modules** 
 7. **Error Handling**
 8. **Object-Oriented Programming (OOP)**
-9. **Emails with Python** 
-10. **Web Scraping**
+9. **Introduction to data science** 
 
 ## Schedule:
 
-- **Sessions**: Sundays and Tuesdays
+- **Sessions**: Tuesdays
 - **Time**: 12:00 PM
 - **Duration**: 9 sessions
 
