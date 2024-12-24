@@ -15,7 +15,7 @@ Here is a brief overview of what we will cover in this bootcamp:
 3. **Variables** 
 4. **Conditional Statements** 
 5. **Loops** 
-6. **Functions and Modules** 
+6. **Functions** 
 7. **Error Handling**
 8. **Object-Oriented Programming (OOP)**
 9. **Introduction to data science** 
